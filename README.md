@@ -32,10 +32,6 @@
   <img src="https://skillicons.dev/icons?i=py,html,css,js,git,vscode&theme=light" />
 </p>
 
-"<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=funtrustd&theme=rose-pine&show_icons=true&bg_color=ffe4e1&title_color=ff69b4&text_color=ff1493&icon_color=ff69b4&border_color=ffb6c1" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funtrustd&theme=rose-pine&layout=compact&bg_color=ffe4e1&title_color=ff69b4&text_color=ff1493&border_color=ffb6c1" />
-</p>"
 
 <p align="center">
   <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
