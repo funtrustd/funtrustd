@@ -4,7 +4,6 @@
 
 <h3 align="center">✨ just a cutie boy who loves cats & clean code 🐈 ✨</h3>
 
-"<img src="https://i.ibb.co/Xz9kHnK/divider-pink.gif" width="100%">"
 
 <div align="left">
 
