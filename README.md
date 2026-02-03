@@ -1,77 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=FFB6C1&height=150&section=header&text=Welcome%20to%20the%20World%20of%20cutie%3C3&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=45&font=DotGothic16" width="100%">
+<h1 align="center"> 𝒽-𝒽𝑒𝓌𝓌𝑜!!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm cutie<3! <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 
-<br>
-
-<img src="https://media.tenor.com/view/hello-kitty-pink-sanrio-pixel-gif-12442543419663172934" width="220px">
-
-# 🎀 𝒽-𝒽𝑒𝓌𝓌𝑜!! 𝒾'𝓂 𝒸𝓊𝓉𝒾𝑒<𝟥 !! 🎀
-
-### ✨ "just a boy who loves pink vibes, cats, & clean code" ✨
-*(dont judge lolz it looks rly pretty & aesthetic!!)*
+<h3 align="center">✨ just a cutie boy who loves cats & clean code 🐈 ✨</h3>
 
 <img src="https://i.ibb.co/Xz9kHnK/divider-pink.gif" width="100%">
 
+<div align="left">
+
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> heyy!! im **cutie<3**!! i'm just a boy who is rly obsessed with the pink aesthetic and making everything look super kawaii lolz!! i've been a total coding nerd since forever—i've actually been a styling wizard with **html/css for 6 whole years** and a **python prince for about 2 years** now!! 🎨🐍
+
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> i spend a lot of my time keeping the vibes chill by moderating the **house of masti** and **theteenagerpeople** communities on both reddit and discord!! 🛡️🏹
+
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> if im not modding or writing sparkly code for my **discord bot** or my **gesture-control mouse** project, i'm probably just hanging out with my **cats** and making memes!! 🐾🍬
+
+- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> i rly love making things that look aesthetic but also work perfectly!! *sowwy for any typos i'm typing this while drinking strawberry milk!!* 🍓🍼
+
 </div>
 
-### 🌸 𝖕𝖎𝖝𝖊𝖑 𝖕𝖗𝖎𝖓𝖈𝖊 𝖎𝖓𝖙𝖗𝖔... 🐱
-heyy!! im **cutie<3**!! i've been coding since like... forever?? lol. i am a total boy but i just rly love the pink aesthetic and making my profile look like literal candy!! 🍭✨
-
-i've been doing **HTML/CSS for 6 whole years** now so i basically dream in flexbox and grid at this point!! i love making websites look sparkly and perfect!! 🎨💻 i also started my **python** journey **2 years ago** and i love making things automate and go *beep boop*!! i'm currently working on a super cute **discord bot (pookiedahibhalle)** and a **gesture-control mouse** project too!! 🐍🖱️
-
-honestly, i just want to write sparkly code, hang out with my **cats**, and keep the vibes chill!! 🐾🍬 
-*sowwy for any typos i'm typing this while drinking strawberry milk!!* 🍓🍼
-
----
-
-### 🏹 𝖒𝖔𝖉 𝖑𝖎𝖋𝖊 & 𝖈𝖔𝖒𝖒𝖚𝖓𝖎𝖙𝖞... 🐱
-*honestly i spend way too much time keeping discord/reddit chill but someone has to do it!!*
-
-* 🛡️ **House of Masti** - i moderate the subreddit & the discord!! come vibe with us!!
-* 🛡️ **TheTeenagerPeople** - keeping the peace for the teenagers over here too!!
-> *if u break the rules i might have to bonk u (jk... unless??)* 🔨💖
-
----
-
-### 🎀 𝖒𝖖 𝖙𝖊𝖈𝖖 𝖘𝖙𝖆𝖈𝖐 (𝖋𝖎𝖝𝖊𝖉!!) 🎀
+<h3 align="center">𝒸𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-6_Years_Exp-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Styling_Wizard-F8C8DC?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-2_Years_Grind-FFD1DC?style=for-the-badge&logo=python&logoColor=white" />
 
-<br>
+[![discord](https://img.shields.io/badge/Discord-ff69b4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/funtrustd)
+<p><b>username: funtrustd</b></p>
 
-<img src="https://skillicons.dev/icons?i=py,html,css,js,git,vscode&theme=light" />
 </div>
 
----
+<h3 align="center">𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒾 𝓀𝓃𝑜𝓌:</h3>
 
-### 🧸 𝖋𝖎𝖓𝖉 𝖒𝖊 𝖔𝖓 𝖉𝖎𝖘𝖈𝖔𝖗𝖉... 🐱
-<br>
-<div align="center">
-<table border="0">
-  <tr>
-    <td style="background-color: #FFF0F5; border: 2px dashed #FFB6C1; border-radius: 15px; padding: 20px;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmN0PXM/11S56PrL87zJ84/giphy.gif" width="35px"><br>
-      <b>USERNAME: <span style="color: #FF69B4;">funtrustd</span></b><br>
-      ✨ 𝒹𝓂𝓈 𝒶𝓁𝓌𝒶𝓎𝓈 𝑜𝓅𝑒𝓃 ✨
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,vscode&theme=light" />
+</p>
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=funtrustd&theme=rose-pine&show_icons=true&bg_color=ffe4e1&title_color=ff69b4&text_color=ff1493&icon_color=ff69b4&border_color=ffb6c1" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funtrustd&theme=rose-pine&layout=compact&bg_color=ffe4e1&title_color=ff69b4&text_color=ff1493&border_color=ffb6c1" />
+</p>
 
-### 💖 𝖘𝖕𝖆𝖗𝖐𝖑𝖞 𝖘𝖙𝖆𝖙𝖘 (𝖋𝖎𝖝𝖊𝖉!!) 💖
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=funtrustd&show_icons=true&theme=rose-pine&bg_color=ffe4e1&title_color=ff69b4&text_color=ff1493&icon_color=ff69b4&border_color=ffb6c1" />
-<br>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funtrustd&theme=rose-pine&layout=compact&bg_color=ffe4e1&title_color=ff69b4&text_color=ff1493&border_color=ffb6c1" />
-</div>
+<p align="center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+</p>
 
----
-
-<div align="center">
-<img src="https://media.tenor.com/view/hello-kitty-pink-sanrio-pixel-gif-18429928741470825949" width="180px">
 </div>
